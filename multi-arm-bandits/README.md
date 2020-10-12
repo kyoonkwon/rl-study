@@ -11,7 +11,7 @@
 [[2.6-7 optimistic initial value & UCB]](./optimistic-initial-value-and-UCB.ipynb)
 - shows effect of using optimistic initial value
 
-[2.8 gradient bandit algorithm]
+[[2.8 gradient bandit algorithm]](./gradient-bandit.ipynb)
 - performance difference of gradient bandit algorithm according to reward comparative target existence
 
 [2.9 summary]
