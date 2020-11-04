@@ -14,8 +14,8 @@
 [[2.8 gradient bandit algorithm]](./gradient-bandit.ipynb)
 - performance difference of gradient bandit algorithm according to reward comparative target existence
 
-[2.9 summary]
-- parameter study
+[[2.9 summary]](./parameter-study.ipynb)
+- parameter study including unstationary problem
 
 ## Exercise Problems
 
